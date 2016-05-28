@@ -5,4 +5,5 @@ CREATE PROCEDURE [dbo].[Procedure1]
 AS
 	--use UPLUSSQL
 	SELECT GLAccount from Accounts
+	--
 RETURN 0
